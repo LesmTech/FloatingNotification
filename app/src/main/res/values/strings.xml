@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FloatingNotification</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="test_array">
+        <item>Rindt</item>
+        <item>Justin</item>
+        <item>Vincent</item>
+        <item>Emma</item>
+    </string-array>
+</resources>
